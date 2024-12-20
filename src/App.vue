@@ -5,7 +5,6 @@
         <div class="flex h-16 justify-between">
           <div class="flex">
             <router-link to="/" class="flex items-center">
-              <!-- Logo SVG Icon -->
               <span
                 class="text-2xl text-violet-700 font-bold text-primary-500"
               >E</span>
